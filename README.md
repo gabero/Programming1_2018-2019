@@ -12,7 +12,6 @@
 #### School: Skyline High School
 
 #### High School Graduation Date: 2019
-#### College Graduation Date: 2023
 
 ---
 
@@ -20,7 +19,7 @@
 
 ### Calculator
 
-The purpose of this application was to take any word and convert it into PigLatin. It took all rules into excepetion for PigLatin rules such as, when it starts with a vowel it does not move the vowel to the end and add -ay.
+The purpose of this project was for me to amake a calculator using multiple classes.
 
 + [Code](https://github.com/gabero/Programming1_2018-2019/blob/master/Calculator/Calc)
 + [Code](https://github.com/gabero/Programming1_2018-2019/blob/master/Calculator/button)
