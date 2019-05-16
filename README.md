@@ -28,7 +28,15 @@ The purpose of this project was for me to make a calculator using multiple class
 
 ### Spaceship
 
-The purpose of this was to learn how to use void setup, void draw, etc.
+The purpose of this was to learn how to use void setup, void draw, cursor control, etc.
 
 + [Code](https://github.com/gabero/Programming1_2018-2019/blob/master/spaceship/spaceship.pde)
 + ![Spaceship Image](https://github.com/gabero/Programming1_2018-2019/blob/master/spaceship/picofsship.png)
+
+
+### Zoog
+
+The purpose of this was to learn how to use methods and random.
+
++ [Code](https://github.com/gabero/Programming1_2018-2019/blob/master/Zoog/Zoog.pde)
++ ![Zoog Image](https://github.com/gabero/Programming1_2018-2019/blob/master/Zoog/zoogpic.png)
