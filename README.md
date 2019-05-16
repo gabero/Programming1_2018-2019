@@ -40,3 +40,18 @@ The purpose of this was to learn how to use methods and random.
 
 + [Code](https://github.com/gabero/Programming1_2018-2019/blob/master/Zoog/Zoog.pde)
 + ![Zoog Image](https://github.com/gabero/Programming1_2018-2019/blob/master/Zoog/zoogpic.png)
+
+### Random Face
+
+The purpose of this was to create random colors on a face.
+
++ [Code](https://github.com/gabero/Programming1_2018-2019/blob/master/Random_face/Random_face.pde)
++ ![Random Face Image](https://github.com/gabero/Programming1_2018-2019/blob/master/Random_face/randomfacepic.png)
+
+### arrayOperations
+
+The purpose of this was to create arrays and random colors.
+
++ [Code](https://github.com/gabero/Programming1_2018-2019/blob/master/arrayOperations/arrayOperations.pde)
++ [Code](https://github.com/gabero/Programming1_2018-2019/blob/master/arrayOperations/Button.pde)
++ ![arrayOperations Image](https://github.com/gabero/Programming1_2018-2019/blob/master/arrayOperations/Screen%20Shot%202019-05-16%20at%201.53.37%20PM.png)
